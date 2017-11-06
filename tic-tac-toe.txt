@@ -1,3 +1,10 @@
+/*
+This a simple console based version of the game tic-tac-toe.
+The program intercepts the conditions when user can win prevents it by putting its 'X' or 'O' in the right position.
+Here also simple data structures i.e., Arrays are used.
+I hope everyone will like it! 
+*/
+
 import java.util.*;
 
 class tic_tac_toe
