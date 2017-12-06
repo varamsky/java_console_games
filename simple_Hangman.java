@@ -1,3 +1,8 @@
+/**
+This is a console version of the hangman game in java.
+You might like to add few more words to the Words 'repository' to make a little bit more interesting!
+*/
+
 import java.util.Random;
 import java.util.Scanner;
 
