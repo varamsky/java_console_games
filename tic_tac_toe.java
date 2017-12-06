@@ -1,3 +1,13 @@
+/**
+This tic-tac-toe game in java is a console based game and it works fine with IDEs with a 'terminal window' like the Blue J IDE.
+It will work almost fine with any other IDE, the thing is I have used the '\u000C' unicode character to 
+clear up the 'terminal window' every time to make the application look nice.
+In IDEs (like Intelli J) which have a 'console' and NOT a 'terminal window' the console will not be cleared off after each 
+step but everything else will work perfectly fine.
+
+LET ME KNOW IF YOU HAVE ANYTHING TO ADD TO THIS PIECE OF WORK!
+*/
+
 import java.util.*;
 
 class tic_tac_toe
